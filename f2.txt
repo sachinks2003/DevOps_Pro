@@ -1,1 +1,3 @@
-Hello, I am Karamvir. I am a bad boy. I am a boy.
+Hello, I am Karamvir.
+Hey! What's up?
+I am doing great in the practical (DevOps Practical).
